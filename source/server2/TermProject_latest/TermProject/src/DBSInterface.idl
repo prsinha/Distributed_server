@@ -1,0 +1,10 @@
+module DBSApp{
+
+    interface DBSInterface {
+
+      float deposit (in long acnt, in float amt);
+      float withdraw (in long acnt, in float amt);
+      float balance (in long acnt);
+      float transfer (in long src_acnt, in long dest_acnt, in float amt);
+      };//end of the interface
+};//end of the module

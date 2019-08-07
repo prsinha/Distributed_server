@@ -1,0 +1,204 @@
+<xml>
+	<type> state_transfer </type>
+	<no_of_clients> 50 </no_of_clients>
+	<client 1>
+		<acc_no> 1110001 </acc_no>
+		<amount> 900.32 </amount>
+	</client 1>
+	<client 2>
+		<acc_no> 1110002 </acc_no>
+		<amount> 901.32 </amount>
+	</client 2>
+	<client 3>
+		<acc_no> 1110003 </acc_no>
+		<amount> 902.32 </amount>
+	</client 3>
+	<client 4>
+		<acc_no> 1110004 </acc_no>
+		<amount> 903.32 </amount>
+	</client 4>
+	<client 5>
+		<acc_no> 1110005 </acc_no>
+		<amount> 904.32 </amount>
+	</client 5>
+	<client 6>
+		<acc_no> 1110006 </acc_no>
+		<amount> 1005.32 </amount>
+	</client 6>
+	<client 7>
+		<acc_no> 1110007 </acc_no>
+		<amount> 1006.32 </amount>
+	</client 7>
+	<client 8>
+		<acc_no> 1110008 </acc_no>
+		<amount> 1007.32 </amount>
+	</client 8>
+	<client 9>
+		<acc_no> 1110009 </acc_no>
+		<amount> 1008.32 </amount>
+	</client 9>
+	<client 10>
+		<acc_no> 1110010 </acc_no>
+		<amount> 1009.32 </amount>
+	</client 10>
+	<client 11>
+		<acc_no> 1110011 </acc_no>
+		<amount> 2000.68 </amount>
+	</client 11>
+	<client 12>
+		<acc_no> 1110012 </acc_no>
+		<amount> 2001.68 </amount>
+	</client 12>
+	<client 13>
+		<acc_no> 1110013 </acc_no>
+		<amount> 2002.68 </amount>
+	</client 13>
+	<client 14>
+		<acc_no> 1110014 </acc_no>
+		<amount> 2003.68 </amount>
+	</client 14>
+	<client 15>
+		<acc_no> 1110015 </acc_no>
+		<amount> 2004.68 </amount>
+	</client 15>
+	<client 16>
+		<acc_no> 1110016 </acc_no>
+		<amount> 2005.68 </amount>
+	</client 16>
+	<client 17>
+		<acc_no> 1110017 </acc_no>
+		<amount> 2006.68 </amount>
+	</client 17>
+	<client 18>
+		<acc_no> 1110018 </acc_no>
+		<amount> 2007.68 </amount>
+	</client 18>
+	<client 19>
+		<acc_no> 1110019 </acc_no>
+		<amount> 2008.68 </amount>
+	</client 19>
+	<client 20>
+		<acc_no> 1110020 </acc_no>
+		<amount> 2009.68 </amount>
+	</client 20>
+	<client 21>
+		<acc_no> 1110021 </acc_no>
+		<amount> 3000.01 </amount>
+	</client 21>
+	<client 22>
+		<acc_no> 1110022 </acc_no>
+		<amount> 3001.01 </amount>
+	</client 22>
+	<client 23>
+		<acc_no> 1110023 </acc_no>
+		<amount> 3002.01 </amount>
+	</client 23>
+	<client 24>
+		<acc_no> 1110024 </acc_no>
+		<amount> 3003.01 </amount>
+	</client 24>
+	<client 25>
+		<acc_no> 1110025 </acc_no>
+		<amount> 3004.01 </amount>
+	</client 25>
+	<client 26>
+		<acc_no> 1110026 </acc_no>
+		<amount> 3005.01 </amount>
+	</client 26>
+	<client 27>
+		<acc_no> 1110027 </acc_no>
+		<amount> 3006.01 </amount>
+	</client 27>
+	<client 28>
+		<acc_no> 1110028 </acc_no>
+		<amount> 3007.01 </amount>
+	</client 28>
+	<client 29>
+		<acc_no> 1110029 </acc_no>
+		<amount> 3008.01 </amount>
+	</client 29>
+	<client 30>
+		<acc_no> 1110030 </acc_no>
+		<amount> 3009.01 </amount>
+	</client 30>
+	<client 31>
+		<acc_no> 1110031 </acc_no>
+		<amount> 4000.0 </amount>
+	</client 31>
+	<client 32>
+		<acc_no> 1110032 </acc_no>
+		<amount> 4001.0 </amount>
+	</client 32>
+	<client 33>
+		<acc_no> 1110033 </acc_no>
+		<amount> 4002.0 </amount>
+	</client 33>
+	<client 34>
+		<acc_no> 1110034 </acc_no>
+		<amount> 4003.0 </amount>
+	</client 34>
+	<client 35>
+		<acc_no> 1110035 </acc_no>
+		<amount> 4004.0 </amount>
+	</client 35>
+	<client 36>
+		<acc_no> 1110036 </acc_no>
+		<amount> 4005.0 </amount>
+	</client 36>
+	<client 37>
+		<acc_no> 1110037 </acc_no>
+		<amount> 4006.0 </amount>
+	</client 37>
+	<client 38>
+		<acc_no> 1110038 </acc_no>
+		<amount> 4007.0 </amount>
+	</client 38>
+	<client 39>
+		<acc_no> 1110039 </acc_no>
+		<amount> 4008.0 </amount>
+	</client 39>
+	<client 40>
+		<acc_no> 1110040 </acc_no>
+		<amount> 4009.0 </amount>
+	</client 40>
+	<client 41>
+		<acc_no> 1110041 </acc_no>
+		<amount> 21000.89 </amount>
+	</client 41>
+	<client 42>
+		<acc_no> 1110042 </acc_no>
+		<amount> 21001.89 </amount>
+	</client 42>
+	<client 43>
+		<acc_no> 1110043 </acc_no>
+		<amount> 21002.89 </amount>
+	</client 43>
+	<client 44>
+		<acc_no> 1110044 </acc_no>
+		<amount> 21003.89 </amount>
+	</client 44>
+	<client 45>
+		<acc_no> 1110045 </acc_no>
+		<amount> 21004.89 </amount>
+	</client 45>
+	<client 46>
+		<acc_no> 1110046 </acc_no>
+		<amount> 21005.89 </amount>
+	</client 46>
+	<client 47>
+		<acc_no> 1110047 </acc_no>
+		<amount> 21006.89 </amount>
+	</client 47>
+	<client 48>
+		<acc_no> 1110048 </acc_no>
+		<amount> 21007.89 </amount>
+	</client 48>
+	<client 49>
+		<acc_no> 1110049 </acc_no>
+		<amount> 21008.89 </amount>
+	</client 49>
+	<client 50>
+		<acc_no> 1110050 </acc_no>
+		<amount> 21009.89 </amount>
+	</client 50>
+</xml>
